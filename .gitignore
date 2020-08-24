@@ -1,0 +1,10 @@
+DCM/
+__pycache__/
+json/
+npyfull/
+NPYRepo/
+Presentation/
+*.png
+*.dcm
+*.npy
+
